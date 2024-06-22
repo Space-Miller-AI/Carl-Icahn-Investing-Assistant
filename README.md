@@ -1,5 +1,5 @@
 # Carl-Icahn-Investing-Assistant
-Seek guidance on investment strategies with insights from Carl Icahn
+This chatbot leverages Carl Icahn's investment wisdom to provide users with strategic advice, in-depth analysis, and real-time data, enabling informed investment decisions grounded in value, activism, and a long-term perspective. This bot fetches data from Finnhub API to provide users with real-time data on stocks, including stock prices, market performance, and relevant financial metrics, enabling informed investment decisions.
 
 https://chatgpt.com/g/g-ooZYWd18O-carl-icahn-investing-assistant
 
@@ -21,5 +21,3 @@ https://chatgpt.com/g/g-ooZYWd18O-carl-icahn-investing-assistant
 5. Strategic Recommendations:
    - Portfolio Suggestions: Based on Carl Icahn's investment principles, the bot suggests specific stocks or sectors for consideration in the investment portfolio.
    - Actionable Options: It offers a range of investment options, each with detailed explanations of potential benefits and risks, facilitating informed investment decisions.
-
-This chatbot leverages Carl Icahn's investment wisdom to provide users with strategic advice, in-depth analysis, and real-time data, enabling informed investment decisions grounded in value, activism, and a long-term perspective.
